@@ -1,0 +1,26 @@
+# Streamlit
+streamlit
+watchdog
+
+# Langchain
+langchain
+
+# LLMs
+# openai
+
+# Other stuff
+# retry
+# pinecone-client
+# snowflake-connector-python[pandas]
+
+# Deprecated (but needed for now)
+# termcolor
+# sqlalchemy
+# snowflake-sqlalchemy
+# python-dotenv
+
+# Adrien's development stuff
+black
+pynvim
+pyright
+
