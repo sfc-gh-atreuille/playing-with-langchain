@@ -1,0 +1,5 @@
+# Files that should't be part of the repo
+temp/
+
+# The virtual environemnt
+.venv/
